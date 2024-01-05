@@ -1,0 +1,14 @@
+ma hs	        ten hs	      diem toan	diem li    diem hoa	diem tb	xep loai
+22106100390	phan xuan an	   6.7	7.5	   4	         6	kha
+22106100424	le ngoc an	       3.7	4.7	   5	         6	trungbinh
+22106100342	le phuong anh	   3.7	3	   6	         7	trungbinh
+22106100634	le thi ngoc anh    8	8	   7	         8	gioi
+22106100256	do tan dat	       8	9	   8	         6	gioi
+22106100357	nguyen hai duong   7.6  5	   9	         5	gioi
+22106100146	le xuan huy	       7.6	4.7	   6	         8	gioi
+22106100765	phan van khai	   7.6	8	   4	         8	gioi
+22106100345	le van manh	       9.6	5	   7	         9	gioi
+22106100222	nguyen van nam	   9.6	4	   8	         6	gioi
+22106100246	nguyen van vinh	   5	8	   9	         7	gioi
+22106100782	tran minh quang	   7	9	   4	         8	gioi
+22106100332	nguyen thi vy	   10	9	   6	         8	gioi
